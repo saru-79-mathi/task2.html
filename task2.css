@@ -1,0 +1,34 @@
+*
+{
+    background-color: rgb(61, 129, 129);
+}
+button:hover
+{
+    height: 20px;
+    width: 50px;
+    color:black;
+    background-color:black;
+}
+#un::shadow,input.io::shadow
+{}
+[for]
+{
+    font-size: 0.9cm;
+}
+*
+{
+    margin-top: 50px;
+    margin-left: 55px;
+}
+.bn
+{
+    color: black;
+}
+.an
+{
+    font-size: 5cm;
+    color:blue;
+}
+input{
+    color:blueviolet;
+}
